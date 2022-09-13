@@ -1,6 +1,6 @@
 ---
 title:
-layout: default
+layout: post
 permalink: /projects/
 published: true
 ---
