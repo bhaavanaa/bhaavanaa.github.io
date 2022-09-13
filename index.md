@@ -16,7 +16,7 @@ I am a Research Assistant at Indian Institute of Technology Kharagpur under Prof
 <br>
 I recently graduated with distinction from Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram in Computer Engineering.
 </span>
-<div>
+</div>
 
 <br>
 <br>
