@@ -1,4 +1,4 @@
- ---
+---
 layout: about
 permalink: /
 profile:
@@ -30,8 +30,6 @@ dialogue datasets to train the models to perform this task.
 ◦ Proposed and implemented a novel approach for masked language modeling and pretraining of ELECTRA for performing
 sentence infilling through the discriminative objective.University of Technology and Design" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:70%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[2022-Present]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
-  <span style="width:70%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[January 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
-</div>
 ------
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="CUHK.png" alt="The Chinese University of Hong Kong (CUHK)
