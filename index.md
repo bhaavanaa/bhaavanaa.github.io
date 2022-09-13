@@ -28,7 +28,8 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="CUHK.png" alt="The Chinese University of Hong Kong (CUHK)
 " style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Apr 2021 - Sep 2021]</b> Designed and implemented an automated system for analyzing course feedback. Work was communicated and accepted as a long paper to the conference - IEEE TALE 2021.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Apr 2021 - Sep 2021]</b> Designed the system and functionalities required for efficiently analyzing course feedback from students. I also performed preprocessing of the course feedback, data annotation, descriptive analysis, and implemented various high-level functions namely - clustering and topic modeling, aspect-based sentiment analysis, visualizing the results, and beta version of the front end.
+</span>
 </div>
 ------
 <!-- * <img src="CUHK.png" alt="IIT-Kharagpur" title="Indian Institute of Technology Kharagpur" width="100"/>  <p style="text-align:right;">*[Apr 2021 - Sep 2021]* </p> -->
