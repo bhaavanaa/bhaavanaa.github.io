@@ -12,19 +12,19 @@ List of all the projects during my time at IIIT D&M Kancheepuram
 
 Trained models with the pre-trained dataset (ProGAN and SNGAN) and produced fake images using them. Classified images as real or GAN-generated using the GAN fingerprints. Implemented the project using Python (OpenCV)
 
-## AR Watch App:
+### AR Watch App:
 
 Created an interactive AR app, where Unity engine was used to obtain a virtual 3D preview of the watch, Vuforia was used to identify and set the pre-defined target like the wrist, and a mobile app facilitated swapping of watch straps and colors to enable shoppers to try out the watch.
 
-## OpenMP, MPI, CUDA implementation of DFT:
+### OpenMP, MPI, CUDA implementation of DFT:
 
 Found the normalized frequency of a random signal using DFT, parallelized the code using OpenMP, MPI and CUDA, and computed the execution time and speed-up to obtain the optimum number of processors to perform the task.
 
-## Micro-architecture Design:
+### Micro-architecture Design:
 
 Coded the various components of the processor, such as floating-point adder, floating-point multiplier, logic unit, barrel shifter, register file, instruction fetch unit, and cache, from scratch using Verilog.
 
-## Redesigned the Yale School of Art website:
+### Redesigned the Yale School of Art website:
 
 Used various design laws, such as Fitts’ Law, Hick and Hyman Law, Gestalt’s Law, Asimov’s Laws, and Pareto’s Law, along with various design principles, such as Skeuomorphism, Dual Coding Theory, and Navigational Design to redesign the website and make it more user-friendly. Designed the website using AdobeXD
 
