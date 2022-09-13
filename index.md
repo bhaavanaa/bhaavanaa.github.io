@@ -19,22 +19,31 @@ If you want to use this space to write your biography here, edit the `index.md` 
 The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts. -->
 
 
-# Experience :
+<style>       
+    hr{
+        height: 1px;
+        background-color: #ccc;
+        border: none;
+    }
+</style>
+
+<h2>Experience<h2>
 
 <!-- <img src="SUTD.png" alt="SUTD" title="Singapore University of Technology and Design" width="100"/>*   *[sep 2021 - may 2022]*    <p style="text-align:right;"></p> -->
- 
+
+
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="SUTD.jpeg" alt="SUTD" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
   <span style="width:70%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[January 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
 </div>
-------
+<hr>
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="CUHK.png" alt="The Chinese University of Hong Kong (CUHK)
 " style="max-width:80%; height:auto; object-fit: contain; margin:auto; "></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[Apr 2021 - Sep 2021]</b> Designed the system and functionalities required for analyzing course feedback from students. I also performed preprocessing of the course feedback, data annotation, descriptive analysis, and implemented various high-level functions - clustering and topic modeling, sentiment analysis, visualizing the results, and beta version of the front end.
 </span>
 </div>
-------
+<hr>
 <!-- * <img src="CUHK.png" alt="IIT-Kharagpur" title="Indian Institute of Technology Kharagpur" width="100"/>  <p style="text-align:right;">*[Apr 2021 - Sep 2021]* </p> -->
 
 <div class="row"> 
@@ -43,8 +52,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 </span>
 </div>
 
-  ------
-
+<hr>
 <!-- <img src="IITK.png" alt="IIT-Kharagpur" title="Indian Institute of Technology Kharagpur" width="100"/> *[Dec 2019 - Mar 2021]* Studied articles and research papers, collected COVID-19 Twitter data, developed and implemented an efficient graph-based algorithm to produce topic-wise summaries of the tweets using Python, and evaluated performance using the ROUGE metric. -->
 
 
@@ -53,7 +61,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[May 2019 - July 2019]</b> Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question.</span>
 </div>
 
-------
+<hr>
 
 <!-- * <img src="IITM.jpg" alt="IIT-Madras" title="Indian Institute of Technology Madras" width="100"/>    *[May 2019 - July 2019]*
   * Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question. I also explored Word2Vec using the Gensim library on small English and Hindi corpora.
