@@ -35,7 +35,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITK.jpeg" alt="Indian Institute of Technology Kharagpur" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Dec 2019 - Mar 2021]</b> Studied articles and research papers on extractive and abstractive text summarization. I proposed an efficient graph-based algorithm to perform extractive text summarization, implemented it on a news dataset, and evaluated the performance using the ROUGE metric. I also collected COVID-19 Twitter data along with its geo-location, and implemented the developed algorithm on the tweets to produce topic-wise and location-wise summaries of the data.
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Dec 2019 - Mar 2021]</b> Proposed an efficient graph-based algorithm to perform extractive text summarization, implemented it on a news dataset, and evaluated the performance using the ROUGE metric. I also collected COVID-19 Twitter data along with its geo-location, and implemented the developed algorithm on the tweets to produce topic-wise and location-wise summaries of the data.
 </span>
 </div>
 
@@ -46,7 +46,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITM.jpg" alt="Indian Institute of Technology Madras" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[May 2019 - July 2019]</b> Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question. I also explored Word2Vec using the Gensim library on small English and Hindi corpora.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[May 2019 - July 2019]</b> Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question.</span>
 </div>
 
 ------
