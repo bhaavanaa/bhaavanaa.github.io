@@ -2,8 +2,7 @@
 layout: post
 title:  Graph-based Text Summarization and its Application on COVID-19 Twitter Data
 ---
-Published in International Journal of Uncertainty, Fuzziness and
-Knowledge-Based Systems, 2022.
+Published in International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 2022.
 
 Ajit Kumar Das, Bhaavanaa Thumu, Apurba Sarkar, S Vimal, Asit Kumar Das
 
