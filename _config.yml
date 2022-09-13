@@ -1,9 +1,9 @@
 ### your site title here
 
 title: Bhaavanaa Thumu
-description: subtitle | affiliations | motto
+description: Research Assistant at IIT Kharagpur
 
-url: "" #custom url to be used instead of GitHub repository
+url: "https://bhaavanaa.github.io/" #custom url to be used instead of GitHub repository
 email: #
 
 
@@ -16,12 +16,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "https://www.linkedin.com/in/adithya-srinivas-bb0b55129/"
-github: "#"
-researchgate: "#"
-orcid: "#"
+# facebook: "#"
+twitter: "https://twitter.com/_Bhaavanaa"
+linkedin: "https://www.linkedin.com/in/bhaavanaa-thumu-48820517a/"
+github: "https://github.com/bhaavanaa"
+researchgate: "https://www.researchgate.net/profile/Bhaavanaa_Thumu"
+# orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
