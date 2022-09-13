@@ -16,6 +16,7 @@ published: true
 
 
 <div>
+<br>
 <span style= "text-align: justify; text-justify: inter-word;"><span>
 I am a Research Assistant at Indian Institute of Technology Kharagpur under Prof. Sudeshna Sarkar. I am currently working on question answering tasks for low resource languages. My research interest is centered around the idea of mimicking and emulating human language to build impactful applications.
 
@@ -33,7 +34,7 @@ I recently graduated with distinction from Indian Institute of Information Techn
 <div>
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="SUTD.jpeg" alt="SUTD" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:70%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[January 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[January 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
 </div>
 <hr>
 <div class="row"> 
