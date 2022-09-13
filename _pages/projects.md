@@ -6,8 +6,7 @@ published: true
 ---
 
 
-List of all the projects during my time at IIIT D&M Kancheepuram
-
+---
 ### Detection of Real and Fake Images:
 
 Trained models with the pre-trained dataset (ProGAN and SNGAN) and produced fake images using them. Classified images as real or GAN-generated using the GAN fingerprints. Implemented the project using Python (OpenCV)
