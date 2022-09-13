@@ -19,8 +19,8 @@ paginate_path: /blog/page:num/
 # facebook: "#"
 twitter: "https://twitter.com/_Bhaavanaa"
 linkedin: "bhaavanaa-thumu-48820517a/"
-github: "https://github.com/bhaavanaa"
-researchgate: "https://www.researchgate.net/profile/Bhaavanaa_Thumu"
+github: "bhaavanaa"
+researchgate: "Bhaavanaa_Thumu"
 # orcid: "#"
 
 highlighter: rouge
