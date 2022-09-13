@@ -8,4 +8,4 @@ Published in IEEE International Conference on Engineering, Technology & Educatio
 Zhihang Hu, **Bhaavanaa Thumu**, Yuren Qin, ZhiSheng Tao, Tsz Him Iknos Wong, Yijian LU,
 Omar Kan, Yu Li, Irwin King
 
-[CUHK](https://ieeexplore.ieee.org/document/9678633)
+[Paper](https://ieeexplore.ieee.org/document/9678633)
