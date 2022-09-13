@@ -6,7 +6,7 @@ published: true
 ---
 
 
-List of all the projects during my undergrad at IIITDMK
+List of all the projects during my time at IIIT D&M Kancheepuram
 
 ### Detection of Real and Fake Images:
 
