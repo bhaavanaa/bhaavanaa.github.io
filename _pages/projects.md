@@ -29,7 +29,7 @@ Coded the various components of the processor, such as floating-point adder, flo
 ---
 ### Redesigned the Yale School of Art website
 
-Used various design laws, such as Fitts’ Law, Hick and Hyman Law, Gestalt’s Law, Asimov’s Laws, and Pareto’s Law, along with various design principles, such as Skeuomorphism, Dual Coding Theory, and Navigational Design to redesign the website and make it more user-friendly. Designed the website using AdobeXD
+Used various design laws, such as Fitts’ Law, Hick and Hyman Law, Gestalt’s Law, Asimov’s Laws, and Pareto’s Law, along with various design principles, such as Skeuomorphism, Dual Coding Theory, and Navigational Design to redesign the website and make it more user-friendly. Designed the website using AdobeXD.
 
 ---
 <!-- <div class="ProjectContainer">
