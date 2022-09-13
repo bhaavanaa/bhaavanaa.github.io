@@ -4,6 +4,7 @@ layout: post
 permalink: /projects/
 published: true
 ---
+List of all the projects during my Undergrad at IIITDMK
 
 # Detection of Real and Fake Images
 
