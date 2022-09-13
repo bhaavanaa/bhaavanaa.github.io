@@ -18,7 +18,7 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 # facebook: "#"
 twitter: "https://twitter.com/_Bhaavanaa"
-linkedin: "https://www.linkedin.com/in/bhaavanaa-thumu-48820517a/"
+linkedin: "/in/bhaavanaa-thumu-48820517a/"
 github: "https://github.com/bhaavanaa"
 researchgate: "https://www.researchgate.net/profile/Bhaavanaa_Thumu"
 # orcid: "#"
