@@ -7,7 +7,9 @@ profile:
 published: true
 ---
 
-The background workings of the various simple but highly beneficial applications we come across everyday, such as autocorrection, predictive typing, and email spam filtering have always piqued my interest, and this curiosity escalated especially after I began my undergraduate studies in computer engineering. I enjoyed sketching an abstract logical map in my mind about how such applications might possibly function. I was particularly more inclined towards dealing with text since it felt more challenging due to its complex and individualistic nature. The idea of mimicking and emulating human language to build impactful applications compelled me to explore this field further. This drove me towards my internships in the domain of natural language processing, and my experiences motivated me to apply to Graduate school for Computer Science with focus on NLP. 
+I am a Research Assistant at Indian Institute of Technology Kharagpur under Prof. Sudeshna Sarkar. I am currently working on question answering tasks for low resource languages. My research interest is centered around the idea of mimicking and emulating human language to build impactful applications.
+
+Previously, I was an Integrated B.Tech and M.Tech Computer Engineering student at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram.
 
 <!-- [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
@@ -36,7 +38,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITK.jpeg" alt="Indian Institute of Technology Kharagpur" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Dec 2019 - Mar 2021]</b> Proposed an efficient graph-based algorithm to perform extractive text summarization, implemented it on a news dataset, and evaluated the performance using the ROUGE metric. I also collected COVID-19 Twitter data along with its geo-location, and implemented the developed algorithm on the tweets to produce topic-wise and location-wise summaries of the data.
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Dec 2019 - Mar 2021]</b> Proposed an efficient graph-based algorithm to perform extractive text summarization, implemented it on a news dataset, and evaluated the performance using the ROUGE metric. I collected COVID-19 Twitter data along with its geo-location, and implemented the developed algorithm on the tweets to produce topic-wise and location-wise summaries of the data.
 </span>
 </div>
 
