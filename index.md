@@ -52,5 +52,6 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 
 ------
 
-<!-- * <img src="IITM.jpg" alt="IIT-Kharagpur" title="Indian Institute of Technology Kharagpur" width="100"/>    *[May 2019 - July 2019]*
-  * Mapped the unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions, and investigated and optimized the answerability score of a question. -->
+<!-- * <img src="IITM.jpg" alt="IIT-Kharagpur" title="Indian Institute of Technology Madras" width="100"/>    *[May 2019 - July 2019]*
+  * Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question. I also explored Word2Vec using the Gensim library on small English and Hindi corpora.
+ -->
