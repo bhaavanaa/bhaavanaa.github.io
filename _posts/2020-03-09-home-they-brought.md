@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deep Learning for CoURse And Teaching Evaluation and Review, 
+title: Deep Learning for CoURse And Teaching Evaluation and Review
 ---
 
 
