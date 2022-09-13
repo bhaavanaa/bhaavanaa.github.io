@@ -29,7 +29,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 ------
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="CUHK.png" alt="The Chinese University of Hong Kong (CUHK)
-" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
+" style="max-width:80%; height:auto; object-fit: contain; margin:auto; text-align: justify; text-justify: inter-word;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Apr 2021 - Sep 2021]</b> Designed the system and functionalities required for analyzing course feedback from students. I also performed preprocessing of the course feedback, data annotation, descriptive analysis, and implemented various high-level functions - clustering and topic modeling, sentiment analysis, visualizing the results, and beta version of the front end.
 </span>
 </div>
@@ -37,7 +37,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 <!-- * <img src="CUHK.png" alt="IIT-Kharagpur" title="Indian Institute of Technology Kharagpur" width="100"/>  <p style="text-align:right;">*[Apr 2021 - Sep 2021]* </p> -->
 
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITK.jpeg" alt="Indian Institute of Technology Kharagpur" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITK.jpeg" alt="Indian Institute of Technology Kharagpur" style="max-width:80%; height:auto; object-fit: contain; margin:auto; text-align: justify; text-justify: inter-word;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Dec 2019 - Mar 2021]</b> Proposed an efficient graph-based algorithm to perform extractive text summarization, implemented it on a news dataset, and evaluated the performance using the ROUGE metric. I collected COVID-19 Twitter data, and implemented the developed algorithm on the tweets to produce topic-wise and location-wise summaries of the data.
 </span>
 </div>
@@ -48,7 +48,7 @@ The social-icons footer can be used to link profiles from GitHub, OrcID and Reas
 
 
 <div class="row"> 
-  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITM.jpg" alt="Indian Institute of Technology Madras" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
+  <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITM.jpg" alt="Indian Institute of Technology Madras" style="max-width:80%; height:auto; object-fit: contain; margin:auto; text-align: justify; text-justify: inter-word;"></span>
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[May 2019 - July 2019]</b> Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question.</span>
 </div>
 
