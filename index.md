@@ -9,7 +9,7 @@ published: true
 
 I am a Research Assistant at Indian Institute of Technology Kharagpur under Prof. Sudeshna Sarkar. I am currently working on question answering tasks for low resource languages. My research interest is centered around the idea of mimicking and emulating human language to build impactful applications.
 
-Previously, I was an Integrated B.Tech and M.Tech Computer Engineering student at Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram.
+I recently graduated with distinction from Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram in Computer Engineering.
 
 <!-- [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
