@@ -9,12 +9,13 @@ published: true
 
 <div>
 <br>
-<span style= "text-align: justify; text-justify: inter-word;"><span>
+<span style= "text-align: justify; text-justify: inter-word;">
 I am a Research Assistant at Indian Institute of Technology Kharagpur under Prof. Sudeshna Sarkar. I am currently working on question answering tasks for low resource languages. My research interest is centered around the idea of mimicking and emulating human language to build impactful applications.
 
 <br>
 <br>
 I recently graduated with distinction from Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram in Computer Engineering.
+</span>
 <div>
 
 ---
