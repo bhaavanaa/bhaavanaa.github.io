@@ -6,13 +6,6 @@ profile:
   image: profile.png
 published: true
 ---
-<div>
-<span style= "text-align: justify; text-justify: inter-word;"><span>
-I am a Research Assistant at Indian Institute of Technology Kharagpur under Prof. Sudeshna Sarkar. I am currently working on question answering tasks for low resource languages. My research interest is centered around the idea of mimicking and emulating human language to build impactful applications.
-<br>
-I recently graduated with distinction from Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram in Computer Engineering.
-<div>
-
 <style>       
     hr{
         height: 1px;
@@ -21,6 +14,18 @@ I recently graduated with distinction from Indian Institute of Information Techn
     }
 </style>
 
+
+<div>
+<span style= "text-align: justify; text-justify: inter-word;"><span>
+I am a Research Assistant at Indian Institute of Technology Kharagpur under Prof. Sudeshna Sarkar. I am currently working on question answering tasks for low resource languages. My research interest is centered around the idea of mimicking and emulating human language to build impactful applications.
+
+<br>
+<br>
+I recently graduated with distinction from Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram in Computer Engineering.
+<div>
+
+<br>
+<br>
 <h2>Experience<h2>
 
 <!-- <img src="SUTD.png" alt="SUTD" title="Singapore University of Technology and Design" width="100"/>*   *[sep 2021 - may 2022]*    <p style="text-align:right;"></p> -->
