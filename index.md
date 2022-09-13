@@ -29,13 +29,13 @@ dialogue datasets to train the models to perform this task.
 ◦ Worked on GPT-2 for performing natural language infilling through the generative objective.
 ◦ Proposed and implemented a novel approach for masked language modeling and pretraining of ELECTRA for performing
 sentence infilling through the discriminative objective.University of Technology and Design" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:70%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[January 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
+  <span style="width:70%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[January 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
 </div>
 ---
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="CUHK.png" alt="The Chinese University of Hong Kong (CUHK)
 " style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Apr 2021 - Sep 2021]</b> Designed the system and functionalities required for analyzing course feedback from students. I also performed preprocessing of the course feedback, data annotation, descriptive analysis, and implemented various high-level functions - clustering and topic modeling, sentiment analysis, visualizing the results, and beta version of the front end.
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[Apr 2021 - Sep 2021]</b> Designed the system and functionalities required for analyzing course feedback from students. I also performed preprocessing of the course feedback, data annotation, descriptive analysis, and implemented various high-level functions - clustering and topic modeling, sentiment analysis, visualizing the results, and beta version of the front end.
 </span>
 </div>
 ---
@@ -43,7 +43,7 @@ sentence infilling through the discriminative objective.University of Technology
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITK.jpeg" alt="Indian Institute of Technology Kharagpur" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Dec 2019 - Mar 2021]</b> Proposed an efficient graph-based algorithm to perform extractive text summarization, implemented it on a news dataset, and evaluated the performance using the ROUGE metric. I collected COVID-19 Twitter data, and implemented the developed algorithm on the tweets to produce topic-wise and location-wise summaries of the data.
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;" ><b>[Dec 2019 - Mar 2021]</b> Proposed an efficient graph-based algorithm to perform extractive text summarization, implemented it on a news dataset, and evaluated the performance using the ROUGE metric. I collected COVID-19 Twitter data, and implemented the developed algorithm on the tweets to produce topic-wise and location-wise summaries of the data.
 </span>
 </div>
 
@@ -53,7 +53,7 @@ sentence infilling through the discriminative objective.University of Technology
 
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="IITM.jpg" alt="Indian Institute of Technology Madras" style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[May 2019 - July 2019]</b> Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[May 2019 - July 2019]</b> Mapped unanswerable and follow-up questions of the SQuAD2.0 dataset to the closest answerable questions. I investigated the answerability of an unanswerable question with respect to the mapped answerable question, and proposed a rule-based approach to optimize the answerability score of the question.</span>
 </div>
 
 ---
