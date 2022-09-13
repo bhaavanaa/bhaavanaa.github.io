@@ -29,13 +29,13 @@ dialogue datasets to train the models to perform this task.
 ◦ Worked on GPT-2 for performing natural language infilling through the generative objective.
 ◦ Proposed and implemented a novel approach for masked language modeling and pretraining of ELECTRA for performing
 sentence infilling through the discriminative objective.University of Technology and Design" style="max-width:90%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[January 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[Jan 2022 - May 2022]</b> Studied the state-of-the-art works related to text generation and text infilling. I worked on GPT-2 for performing natural language infilling through the generative objective. I proposed a novel approach for masked language modeling and pretraining of ELECTRA for performing sentence infilling through the discriminative objective.</span>
 </div>
 ---
 <div class="row"> 
   <span style="width:20%; height:auto; display: inline-block; justify-content:center; vertical-align: middle;"><img src="CUHK.png" alt="The Chinese University of Hong Kong (CUHK)
 " style="max-width:80%; height:auto; object-fit: contain; margin:auto;"></span>
-  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[Apr 2021 - Sep 2021]</b> Designed the system and functionalities required for analyzing course feedback from students. I also performed preprocessing of the course feedback, data annotation, descriptive analysis, and implemented various high-level functions - clustering and topic modeling, sentiment analysis, visualizing the results, and beta version of the front end.
+  <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large; text-align: justify; text-justify: inter-word;"><b>[Apr 2021 - Sept 2021]</b> Designed the system and functionalities required for analyzing course feedback from students. I also performed preprocessing of the course feedback, data annotation, descriptive analysis, and implemented various high-level functions - clustering and topic modeling, sentiment analysis, visualizing the results, and beta version of the front end.
 </span>
 </div>
 ---
