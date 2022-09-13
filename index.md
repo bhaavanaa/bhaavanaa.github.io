@@ -15,13 +15,6 @@ If you want to use this space to write your biography here, edit the `index.md` 
 
 The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts. -->
 
-# Publications
-
-- Journal Paper: Ajit Kumar Das, Bhaavanaa Thumu, Apurba Sarkar, S Vimal, Asit Kumar Das, “Graph-Based Text
-Summarization and Its Application on COVID-19 Twitter Data,” International Journal of Uncertainty, Fuzziness and
-Knowledge-Based Systems, 2022, pp. 513-540, doi: 10.1142/S0218488522400190. PAPER
-
-- Conference Paper: Zhihang Hu, Bhaavanaa Thumu, Yuren Qin, ZhiSheng Tao, Tsz Him Iknos Wong, Yijian LU, Omar Kan, Yu Li, Irwin King, “DeepCURATER: Deep Learning for CoURse And Teaching Evaluation and Review,” 2021 IEEE International Conference on Engineering, Technology & Education (TALE), 2021, pp. 646-653, doi: 10.1109/TALE52509.2021.9678633. PAPER
 
 # Experience :
 
