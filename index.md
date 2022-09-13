@@ -46,7 +46,7 @@ Knowledge-Based Systems, 2022, pp. 513-540, doi: 10.1142/S0218488522400190. PAPE
   <span style="width:75%; height:auto; display: inline-block; vertical-align: middle;font-size:large;"><b>[Dec 2019 - Mar 2021]</b> Studied articles and research papers, collected COVID-19 Twitter data, developed and implemented an efficient graph-based algorithm to produce topic-wise summaries of the tweets using Python, and evaluated performance using the ROUGE metric.</span>
 </div>
 
-------
+  ------
 
 <!-- <img src="IITK.png" alt="IIT-Kharagpur" title="Indian Institute of Technology Kharagpur" width="100"/> *[Dec 2019 - Mar 2021]* Studied articles and research papers, collected COVID-19 Twitter data, developed and implemented an efficient graph-based algorithm to produce topic-wise summaries of the tweets using Python, and evaluated performance using the ROUGE metric. -->
 
